@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "517828C1-2B6C-44B8-86FE-DA0FE6F57376"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A91817BC-FC63-4124-8A3B-DD6C22A0C015"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PubUp/PlaceLookupView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PlaceLookupView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "A91817BC-FC63-4124-8A3B-DD6C22A0C015 - e52c0622a5157e17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of PubUp.PlaceLookupView.placeVM : PubUp.PlaceViewModel"
+                  moduleName = "PubUp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannon/Desktop/College%20Courses/Senior%20Year%202022-2023/Spring%20Semester/IT%20358%20-%20Mobile%20and%20Cloud%20Computing/FinalProject/PubUp/PubUp/PlaceLookupView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  uuid = "A91817BC-FC63-4124-8A3B-DD6C22A0C015 - 4e445867c1dfed4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PubUp.PlaceLookupView.placeVM.getter : PubUp.PlaceViewModel"
+                  moduleName = "PubUp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannon/Desktop/College%20Courses/Senior%20Year%202022-2023/Spring%20Semester/IT%20358%20-%20Mobile%20and%20Cloud%20Computing/FinalProject/PubUp/PubUp/PlaceLookupView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "105">
+               </Location>
+               <Location
+                  uuid = "A91817BC-FC63-4124-8A3B-DD6C22A0C015 - 22670fbad5fc5bb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PubUp.PlaceLookupView.$placeVM.getter : SwiftUI.ObservedObject&lt;PubUp.PlaceViewModel&gt;.Wrapper"
+                  moduleName = "PubUp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannon/Desktop/College%20Courses/Senior%20Year%202022-2023/Spring%20Semester/IT%20358%20-%20Mobile%20and%20Cloud%20Computing/FinalProject/PubUp/PubUp/PlaceLookupView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C20BB666-EEAB-4152-9A33-B3E939E4EDAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PubUp/PlaceLookupView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -18,4 +18,6 @@ Business locator and review iOS mobile application, integrating YelpFusionAPI to
   - Shows user email
   - Button to sign out
   - Color scheme option
+ 
+## Final Product (image does not showcase reviews left by user but it indeed does show once added.)
  ![image](https://github.com/srburke/pubup-app/assets/15665394/4a725692-1946-42df-89d8-33ce654e38a1)
